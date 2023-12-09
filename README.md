@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="http://[www.amitmerchant.com/electron-markdownify](https://www.dail.es/masterchef-celebrity-mccelebrity/)"><img src="[https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png](https://www.dail.es/wp-content/uploads/2018/10/Masterchef-logo.png)" alt="Markdownify" width="200"></a>
   <br>
   Markdownify
   <br>
