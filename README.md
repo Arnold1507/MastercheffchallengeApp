@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://[w![Masterchef-logo](https://github.com/Arnold1507/MastercheffchallengeApp/assets/149121369/c7a08dd8-e3b1-4b59-823c-3a740f6354f5)"><img src="[[https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png](https://github.com/Arnold1507/MastercheffchallengeApp/assets/149121369/c7a08dd8-e3b1-4b59-823c-3a740f6354f5)](https://www.dail.es/wp-content/uploads/2018/10/Masterchef-logo.png)" alt="Markdownify" width="200"></a>
+![image][Masterchef-logo](https://github.com/Arnold1507/MastercheffchallengeApp/assets/149121369/2a5c6aca-76e7-4b1c-9829-301776c9c8dd)
 <br>
   Markdownify
   <br>
