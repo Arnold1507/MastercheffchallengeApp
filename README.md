@@ -3,7 +3,7 @@
 
 <h1 align="center">
 
-![R][Masterchef-logo]([https://github.com/Arnold1507/MastercheffchallengeApp/assets/149121369/2a5c6aca-76e7-4b1c-9829-301776c9c8dd](https://logonoid.com/images/masterchef-logo.png))
+![Masterchef-logo](https://github.com/Arnold1507/MastercheffchallengeApp/assets/149121369/85e6ec57-2244-44a0-bbc7-f7aface69540)
 
  
 </h1>
