@@ -2,11 +2,10 @@
  Aplicacion Mastercheff 
 
 <h1 align="center">
-  <br>
+
 ![R][Masterchef-logo]([https://github.com/Arnold1507/MastercheffchallengeApp/assets/149121369/2a5c6aca-76e7-4b1c-9829-301776c9c8dd](https://logonoid.com/images/masterchef-logo.png))
-<br>
-  Markdownify
-  <br>
+
+ 
 </h1>
 
 <h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
